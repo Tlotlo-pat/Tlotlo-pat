@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tlotlo
-- 👀 I’m interested in coding,IoT,AI
+- 👀 I’m interested in ,IoT,AI ,Mobile Application Development,
 - 🌱 I’m currently learning Javascript
 - 📫 reach me at    patriotkgotlafela@gmail.com
 
